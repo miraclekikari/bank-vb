@@ -28,3 +28,7 @@ C:\Users\HP\Documents\Visual Studio 2013\Projects\projet de groupe\WindowsApplic
 C:\Users\HP\Documents\Visual Studio 2013\Projects\projet de groupe\WindowsApplication3\obj\Debug\WindowsApplication3.vbproj.GenerateResource.Cache
 C:\Users\HP\Documents\Visual Studio 2013\Projects\projet de groupe\WindowsApplication3\obj\Debug\RdlCompile.cache
 C:\Users\HP\Documents\Visual Studio 2013\Projects\projet de groupe\WindowsApplication3\obj\Debug\RdlCompile.compiled
+C:\Users\HP\Documents\Visual Studio 2013\Projects\bank-vb\WindowsApplication3\bin\Debug\WindowsApplication3.exe.config
+C:\Users\HP\Documents\Visual Studio 2013\Projects\bank-vb\WindowsApplication3\obj\Debug\WindowsApplication3.exe
+C:\Users\HP\Documents\Visual Studio 2013\Projects\bank-vb\WindowsApplication3\obj\Debug\WindowsApplication3.xml
+C:\Users\HP\Documents\Visual Studio 2013\Projects\bank-vb\WindowsApplication3\obj\Debug\WindowsApplication3.pdb
