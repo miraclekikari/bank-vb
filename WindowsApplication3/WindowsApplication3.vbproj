@@ -76,10 +76,10 @@
     <Compile Include="formaccueil.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="formmodifier.Designer.vb">
-      <DependentUpon>formmodifier.vb</DependentUpon>
+    <Compile Include="formadministraction.Designer.vb">
+      <DependentUpon>formadministraction.vb</DependentUpon>
     </Compile>
-    <Compile Include="formmodifier.vb">
+    <Compile Include="formadministraction.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="forminscription.Designer.vb">
@@ -95,6 +95,7 @@
       <DependentUpon>formconnexion.vb</DependentUpon>
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="Module1.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
@@ -121,8 +122,8 @@
     <EmbeddedResource Include="formconnexion.resx">
       <DependentUpon>formconnexion.vb</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="formmodifier.resx">
-      <DependentUpon>formmodifier.vb</DependentUpon>
+    <EmbeddedResource Include="formadministraction.resx">
+      <DependentUpon>formadministraction.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
